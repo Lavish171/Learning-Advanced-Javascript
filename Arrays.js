@@ -34,3 +34,15 @@ const filterArray=array.filter(num=>
     })
 
 console.log(filterArray);
+
+/*
+array.map(function(currentValue, index, arr), thisValue)
+Parameter Values
+Parameter	Description
+function(currentValue, index, arr)	Required. A function to be run for each element in the array.
+Function arguments:
+Argument	Description
+currentValue	Required. The value of the current element
+index	Optional. The array index of the current element
+arr	Optional. The array object the current element belongs to
+*/
